@@ -29,6 +29,7 @@ As a teacher I have also spent quite amount of times to learn how to teach and t
 * ["Hard cultures" and "Cultural The-World-is-Flat"](multiculturecompetence/hardsoft.md)
 * [Direct and indirect communications](multiculturecompetence/communication.md)
 * [International students](multiculturecompetence/internationalstudent.md)
+* [Lessons learned from Teaching students in Fudan](multiculturecompetence/fist.md)
 
 ## Some interesting books
 * [The Slow Professor](https://www.amazon.com/Slow-Professor-Challenging-Culture-Academy)
