@@ -1,0 +1,12 @@
+## How would I describe learning?
+
+### Learning as a process/journey
+
+We all know that learning is not a single action but a process, a journey, that must be carried out in a continuous manner. In higher education, the student is the driver of the learning process. It means, at the center of the learning process, the student must be the main actor who is able to identify the missing knowledge/skills through (self-)discovering/understanding their competencies and demand of knowledge and skills. Based on that, students can establish their learning processes with the help of teachers, other learners and relevant stakeholders participating in the learning process. A successful learning process must transform the student's knowledge and skills through different methods in an enjoyable, stimulating learning environment.
+
+### Teacher role
+
+A teacher role, especially in higher education, is to help students identifying their needs, defining strategic learning steps, and executing actions in the student's study strategy concretely. Teacher helps to create a stimulating environment for learning, such as empowering co-learning mode, creating materials, connecting students to other teachers carrying out different learning methods (e.g., learning through the real work in the company), to name just a few. The teacher must assure that the learning process for the student follows the right path, reaching the final goal, or beyond that, identified in the student plan. Teachers need to help students adjusting activities in the learning process so that learning will be carried out in a continuous, but agile, way. Still the teacher must ensure that the learning process will be passed through a rigorous evaluation and assessment for understanding strengths and weakness of students in the process as well as for qualifying knowledge learned. A teacher must lecture students by transferring in-depth knowledge in the domain where the teacher is an expert.
+
+### My strengths as a teacher
+I can play a lecturer, a facilitator, a manager and a leader, who steers the learning journey for students by not only introducing them the scientific knowledge in my expertise but also practical, hands-on engineering work relevant to real world.  I can also bring my many years of experiences in working in different countries/universities to the learning environment, not only helping to cope with students from different cultures and backgrounds but also helping students to understand how to learn and work in the environments I have experienced.
